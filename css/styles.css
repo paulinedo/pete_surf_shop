@@ -44,11 +44,10 @@ left: 16px;
 }
 .privacy{
     text-align: right;
+    width: 100%;
 }
+
 .footer{
     height: 5vh;
     background-color: bisque;
-}
-.footerContainer{
-    margin-top: 20px;
 }
