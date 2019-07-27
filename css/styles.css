@@ -1,0 +1,54 @@
+#surfer{
+    width:100%;
+}
+
+.card-img-top{
+    width:50%;
+    height: 20vh;
+    object-fit: contain;
+    margin-left: 26%;
+}
+
+.card{
+    margin: 20px;
+    border: none;
+    margin-bottom: 40px;
+   }
+
+.card-body{
+    text-align: center;
+}
+
+.center-left {
+    position: absolute;
+    top: 20%;
+    /*left: 50%;
+    transform: translate(-50%, -50%);*/
+  }
+
+.top-left {
+position: absolute;
+top: 20px;
+left: 16px;
+}
+
+.top-right {
+    position: absolute;
+    top: 28px;
+    right: 16px;
+  }
+
+.nav{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.privacy{
+    text-align: right;
+}
+.footer{
+    height: 5vh;
+    background-color: bisque;
+}
+.footerContainer{
+    margin-top: 20px;
+}
